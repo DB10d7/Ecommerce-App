@@ -1,1 +1,1 @@
-# Ecommerce-App
+# Ecommerce-App (Django+ReactJs)
